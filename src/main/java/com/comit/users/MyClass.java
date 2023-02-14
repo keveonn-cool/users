@@ -29,6 +29,7 @@ public class MyClass {
 		
 		
 		System.out.println(t1.x + " " +t2.x);
+		System.out.println("New changes");
 	}
 
 	
